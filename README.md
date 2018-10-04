@@ -1,2 +1,2 @@
-# test
+# test for slave
 Test Only
